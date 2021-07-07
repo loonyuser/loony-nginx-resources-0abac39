@@ -1,0 +1,3 @@
+config:
+  loony-nginx:replicas: "3"
+  pulumi:template: kubernetes-python
